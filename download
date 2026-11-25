@@ -1,0 +1,4 @@
+data/users.json
+logs/
+tls/*.pem
+__pycache__/
