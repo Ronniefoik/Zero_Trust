@@ -1,5 +1,7 @@
 # Zero Trust dla hybrydowej aplikacji biznesowej
 
+Materiały na przegląd architektury i ryzyka: [M2 — architektura, przepływ danych, zagrożenia i backlog](M2-architektura-i-ryzyka.md).
+
 ## Cel i zakres
 
 Celem projektu jest zapewnienie bezpiecznego dostępu użytkowników do usługi rozproszonej między siecią lokalną a chmurą.
